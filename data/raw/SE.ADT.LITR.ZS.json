@@ -1,0 +1,573 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "total": 33,
+    "sourceid": "2",
+    "lastupdated": "2026-10-08"
+  },
+  [
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2024",
+      "value": 94.7399978637695,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2023",
+      "value": 94.5725490635077,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2022",
+      "value": 94.376866160108,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2021",
+      "value": 94.7726170886975,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2020",
+      "value": 94.7444114331042,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2019",
+      "value": 93.8926266999537,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2018",
+      "value": 93.2300033569336,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2017",
+      "value": 93.0800018310547,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2016",
+      "value": 92.8099975585938,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2015",
+      "value": 92.0500030517578,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2014",
+      "value": 91.7300033569336,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2013",
+      "value": 91.4800033569336,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2012",
+      "value": 91.3399963378906,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2011",
+      "value": 91.4100036621094,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2010",
+      "value": 90.379997253418,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2009",
+      "value": 90.3000030517578,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2008",
+      "value": 90.0400009155273,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2007",
+      "value": 90.0100021362305,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2006",
+      "value": 89.620002746582,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2005",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2004",
+      "value": 88.620002746582,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2003",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2002",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2001",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2000",
+      "value": 86.370002746582,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.ADT.LITR.ZS",
+        "value": "Literacy rate, adult total (% of people ages 15 and above)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    }
+  ]
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": "50",
+    "total": 1
+  },
+  [
+    {
+      "id": "SE.SEC.CUAT.UP.ZS",
+      "name": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "The percentage of population ages 25 and over that attained or completed upper secondary education.",
+      "sourceOrganization": "Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Bulk file (csv), date accessed: 2026-03-19, date published: 2026-02",
+      "topics": [
+        {
+          "id": "4",
+          "value": "Education "
+        },
+        {
+          "id": "17",
+          "value": "Gender"
+        }
+      ]
+    }
+  ]
+]

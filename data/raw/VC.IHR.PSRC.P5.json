@@ -1,0 +1,573 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "total": 33,
+    "sourceid": "2",
+    "lastupdated": "2026-10-08"
+  },
+  [
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2023",
+      "value": 19.2752957673079,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2022",
+      "value": 20.0811754127452,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2021",
+      "value": 20.5048626655709,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2020",
+      "value": 21.8129091470528,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2019",
+      "value": 21.2445602088385,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2018",
+      "value": 27.1606152370358,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2017",
+      "value": 31.1611756216413,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2016",
+      "value": 30.1193623667804,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2015",
+      "value": 28.8503019791216,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2014",
+      "value": 29.8537931807395,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2013",
+      "value": 28.6404106359245,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2012",
+      "value": 28.6413621085766,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2011",
+      "value": 26.7470983503833,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2010",
+      "value": 26.9945684769237,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2009",
+      "value": 26.7914479705158,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2008",
+      "value": 26.3359303856077,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2007",
+      "value": 25.3144591379199,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2006",
+      "value": 26.3403064568888,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2005",
+      "value": 25.7693915381983,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2004",
+      "value": 26.4918363852054,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2003",
+      "value": 28.2710884352715,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2002",
+      "value": 27.848196026942,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2001",
+      "value": 27.2006084949971,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2000",
+      "value": 26.0748466246634,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1999",
+      "value": 25.0021056965213,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1998",
+      "value": 24.7990574348239,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1997",
+      "value": 24.3049302659348,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1996",
+      "value": 23.6865994083929,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1995",
+      "value": 21.0220886836161,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1994",
+      "value": 18.7432334815665,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "VC.IHR.PSRC.P5",
+        "value": "Intentional homicides (per 100,000 people)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1993",
+      "value": 17.865892961495,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    }
+  ]
+]

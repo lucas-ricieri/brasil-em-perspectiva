@@ -1,0 +1,27 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": "50",
+    "total": 1
+  },
+  [
+    {
+      "id": "SH.XPD.OOPC.CH.ZS",
+      "name": "Out-of-pocket expenditure (% of current health expenditure)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Share of out-of-pocket payments of total current health expenditures.  Out-of-pocket payments are spending on health directly out-of-pocket by households.",
+      "sourceOrganization": "Global Health Expenditure Database, updated December 12th, 2025, World Health Organization (WHO), uri: http://apps.who.int/nha/database",
+      "topics": [
+        {
+          "id": "8",
+          "value": "Health "
+        }
+      ]
+    }
+  ]
+]

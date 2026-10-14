@@ -1,0 +1,573 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "total": 33,
+    "sourceid": "2",
+    "lastupdated": "2026-10-08"
+  },
+  [
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2024",
+      "value": 61.7327776308577,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2023",
+      "value": 55.2,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2022",
+      "value": 54,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2021",
+      "value": 53.5,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2020",
+      "value": 52.9,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2019",
+      "value": 50.2,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2018",
+      "value": 47.4328689575195,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2017",
+      "value": 46.1742515563965,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2016",
+      "value": 45.1083183288574,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2015",
+      "value": 43.7763481140137,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2014",
+      "value": 42.5613784790039,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2013",
+      "value": 41.8536682128906,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2012",
+      "value": 40.6111907958984,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2011",
+      "value": 39.3609809875488,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2010",
+      "value": 35.922679901123,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2009",
+      "value": 37.1068801879883,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2008",
+      "value": 35.4544715881348,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2007",
+      "value": 33.7455711364746,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2006",
+      "value": 32.4210815429688,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2005",
+      "value": 30.4,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2004",
+      "value": 29.4160003662109,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2003",
+      "value": 28.1,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2002",
+      "value": 26.8,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2001",
+      "value": 25.3,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2000",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1999",
+      "value": 22.8272911207422,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1998",
+      "value": 22.0733874502781,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1997",
+      "value": 21.3494117010642,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1996",
+      "value": 20.5062962783534,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1995",
+      "value": 19.9339977205057,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "SE.SEC.CUAT.UP.ZS",
+        "value": "Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    }
+  ]
+]
