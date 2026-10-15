@@ -1,5 +1,7 @@
 # Brasil em perspectiva
 
+Repositório: [lucas-ricieri/brasil-em-perspectiva](https://github.com/lucas-ricieri/brasil-em-perspectiva). Instruções de continuidade: [CONHECIMENTO_DO_PROJETO.md](CONHECIMENTO_DO_PROJETO.md).
+
 Dashboard em português para explorar governos brasileiros desde 1994. Consulta das fontes em **14/10/2026**. HTML com dados, estilos e lógica incorporados: `dist/index.html`. Abre diretamente no navegador; não requer servidor ou conexão para as interações. As fontes tipográficas externas são opcionais e têm fallback local.
 
 ## Conteúdo
