@@ -1,0 +1,573 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "total": 33,
+    "sourceid": "2",
+    "lastupdated": "2026-10-08"
+  },
+  [
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2024",
+      "value": 84.46347227,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: NIC.br,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2023",
+      "value": 84.15060238,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: NIC.br,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2022",
+      "value": 80.52775094,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2021",
+      "value": 80.68989314,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: , Brazilian NSO reviewed the weighting methodology changing population totals   - Cetic.br surveys yet to be adjusted"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2020",
+      "value": 81.34269353,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: NIC.br,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2019",
+      "value": 73.9124399133589,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: NIC.br,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2018",
+      "value": 70.4342825404361,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: NIC.br,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2017",
+      "value": 67.4712845236305,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: NIC.br,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2016",
+      "value": 60.8725400681261,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: NIC.br,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2015",
+      "value": 58.3279517340924,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: Brazilian Internet Steering Committee,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2014",
+      "value": 54.5510018796392,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: Brazilian Internet Steering Committee,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2013",
+      "value": 51.04,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: NIC.br,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2012",
+      "value": 48.56,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: NIC.br,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2011",
+      "value": 45.69,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: Brazilian Internet Steering Committee.,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2010",
+      "value": 40.65,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: Brazilian Internet Steering Committee.,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2009",
+      "value": 39.22,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: Brazilian Internet Steering Committee.,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2008",
+      "value": 33.83,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: Brazilian Internet Steering Committee.,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2007",
+      "value": 30.87999916,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: ITU estimate based on Brazilian Internet Steering Committee., Estimated based on urban/rural distribution of Internet users in 2008 (as 2006 Survey collected only urban data)."
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2006",
+      "value": 28.17840004,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: ITU estimate based on Brazilian Internet Steering Committee., Estimated based on urban/rural distribution of Internet users in 2008 (as 2006 Survey collected only urban data)."
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2005",
+      "value": 21.022747248827,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": "Source and notes: IBGE.,"
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2004",
+      "value": 19.073672274442,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2003",
+      "value": 13.2075861035303,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2002",
+      "value": 9.14942508560748,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2001",
+      "value": 4.52849486902851,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2000",
+      "value": 2.87068515854108,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1999",
+      "value": 2.04,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1998",
+      "value": 1.48,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1997",
+      "value": 0.786,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1996",
+      "value": 0.451,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1995",
+      "value": 0.105,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1994",
+      "value": 0.0377,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1993",
+      "value": 0.0255,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0,
+      "footnote": ""
+    }
+  ]
+]

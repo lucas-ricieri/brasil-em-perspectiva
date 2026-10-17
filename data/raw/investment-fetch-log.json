@@ -1,0 +1,35 @@
+{
+  "collectedAt": "2026-10-16",
+  "files": [
+    {
+      "url": "https://balanca.mdic.gov.br/balanca/publicacoes_dados_consolidados/tabelas/pg_series_historicas/TOTAIS_ANUAL.xlsx",
+      "file": "MDIC_TOTAIS_ANUAL.xlsx",
+      "tlsVerified": false,
+      "sha256": "a0e5213a43b56c5bfc7da45382fb4eea93d8be01fd1a784fbbe39d7483ab0972"
+    },
+    {
+      "url": "https://balanca.mdic.gov.br/balanca/publicacoes_dados_consolidados/tabelas/pg_series_historicas/EXP_ISIC_ANUAL.xlsx",
+      "file": "MDIC_EXP_ISIC_ANUAL.xlsx",
+      "tlsVerified": false,
+      "sha256": "f8634ce6967aa7fc8d90d2524d2d41e9726cfbe715bd88ca9b10ac18c8af8947"
+    },
+    {
+      "url": "https://balanca.mdic.gov.br/balanca/publicacoes_dados_consolidados/tabelas/pg_series_historicas/EXP_CGCE_ANUAL.xlsx",
+      "file": "MDIC_EXP_CGCE_ANUAL.xlsx",
+      "tlsVerified": false,
+      "sha256": "01044ece61629294d56e91345092baca309c392d7b1887f6e985f06817800089"
+    },
+    {
+      "url": "https://balanca.mdic.gov.br/balanca/publicacoes_dados_consolidados/pg.html",
+      "file": "MDIC_consolidados_2026-10-16.html",
+      "tlsVerified": false,
+      "sha256": "f0cf13f26dcf1193401d4e068ce357c4c6c09e483fa1cf5ae37dd7764f77725e"
+    },
+    {
+      "url": "https://www.bcb.gov.br/content/publicacoes/relatorioidp/RelatoriaID2024/RID_2025.pdf",
+      "file": "BCB_RID_2025.pdf",
+      "tlsVerified": true,
+      "sha256": "a9f1c7fde915464769292ea9a5ec60fa49eb17b4fac3d231ad6988da926c24ad"
+    }
+  ]
+}

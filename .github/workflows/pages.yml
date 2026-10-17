@@ -1,0 +1,56 @@
+name: Publicar painel no GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter o projeto
+        uses: actions/checkout@v6
+      - name: Preparar Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - name: Preparar Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+      - name: Validar modelos e dados preservados
+        run: |
+          node scripts/test-model.cjs
+          node scripts/test-context.cjs
+          node scripts/test-country.cjs
+          python scripts/test-investment.py
+      - name: Gerar a página principal com o snapshot versionado
+        run: python scripts/build.py
+      - name: Enviar apenas o conteúdo público do painel
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configurar o GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Publicar a página
+        id: deployment
+        uses: actions/deploy-pages@v4

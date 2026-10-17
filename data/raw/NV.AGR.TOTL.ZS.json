@@ -1,0 +1,573 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "total": 33,
+    "sourceid": "2",
+    "lastupdated": "2026-10-08"
+  },
+  [
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2025",
+      "value": 6.08621695565171,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2024",
+      "value": 5.75227640931944,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2023",
+      "value": 6.02306023526246,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2022",
+      "value": 5.76747490819457,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2021",
+      "value": 6.5587626121061,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2020",
+      "value": 5.71148511499007,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2019",
+      "value": 4.20501409463474,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2018",
+      "value": 4.4203993038464,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2017",
+      "value": 4.60059169568986,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2016",
+      "value": 4.89135358790863,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2015",
+      "value": 4.31914942964047,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2014",
+      "value": 4.32561053879483,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2013",
+      "value": 4.50688618256533,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2012",
+      "value": 4.16832822439069,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2011",
+      "value": 4.34203412783304,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2010",
+      "value": 4.11575648779356,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2009",
+      "value": 4.47677399209847,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2008",
+      "value": 4.56785118025741,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2007",
+      "value": 4.41691543634403,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2006",
+      "value": 4.3700437788908,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2005",
+      "value": 4.65116882283132,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2004",
+      "value": 5.66531157603221,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2003",
+      "value": 6.1671843856504,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2002",
+      "value": 5.47527489339298,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2001",
+      "value": 4.80104301642181,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2000",
+      "value": 4.75045997570861,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1999",
+      "value": 4.64598154008681,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1998",
+      "value": 4.7500447835131,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1997",
+      "value": 4.68504702949228,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1996",
+      "value": 4.76841121077967,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1995",
+      "value": 5.01166646465693,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1994",
+      "value": 8.72198937517673,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.AGR.TOTL.ZS",
+        "value": "Agriculture, forestry, and fishing, value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1993",
+      "value": 6.77810923883982,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    }
+  ]
+]

@@ -1,0 +1,2918 @@
+{
+  "asOf": "2026-10-16",
+  "annualCutoff": 2025,
+  "exportComposition": {
+    "id": "EXP_ISIC_ANUAL",
+    "title": "Exportações por atividade",
+    "unit": "US$ correntes FOB",
+    "source": "MDIC · Secex",
+    "url": "https://balanca.mdic.gov.br/balanca/publicacoes_dados_consolidados/pg.html",
+    "api": "https://balanca.mdic.gov.br/balanca/publicacoes_dados_consolidados/tabelas/pg_series_historicas/EXP_ISIC_ANUAL.xlsx",
+    "note": "Mercadorias FOB, classificação por atividade econômica (ISIC), de 1997 a 2025. As quatro categorias são mutuamente exclusivas. Agropecuária não inclui toda a cadeia do agronegócio: alimentos processados pertencem à transformação. Os quatro valores em dólar somam o total anual de exportações; nenhuma categoria é omitida.",
+    "years": {
+      "2025": {
+        "total": 348278462481.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 77608724929.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 80323610408.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 188411306251.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 1934820893.0
+          }
+        ]
+      },
+      "2024": {
+        "total": 337046161710.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 72479554014.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 81036036956.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 181767878561.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 1762692179.0
+          }
+        ]
+      },
+      "2023": {
+        "total": 339695766008.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 81485341473.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 78973147787.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 177075926996.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 2161349752.0
+          }
+        ]
+      },
+      "2022": {
+        "total": 334136038220.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 74787064930.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 76199435567.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 181401196394.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 1748341329.0
+          }
+        ]
+      },
+      "2021": {
+        "total": 280814577460.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 55140716868.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 80046481990.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 144126776466.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 1500602136.0
+          }
+        ]
+      },
+      "2020": {
+        "total": 209180241655.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 45154555683.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 49051827140.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 114072603433.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 901255399.0
+          }
+        ]
+      },
+      "2019": {
+        "total": 221126807647.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 43046834252.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 50584713749.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 126361443943.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 1133815703.0
+          }
+        ]
+      },
+      "2018": {
+        "total": 231889523399.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 45697315725.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 49598108794.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 133326544300.00002
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 3267554580.0
+          }
+        ]
+      },
+      "2017": {
+        "total": 214988108353.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 38571904262.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 39735561040.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 133138004554.99998
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 3542638496.0
+          }
+        ]
+      },
+      "2016": {
+        "total": 179526129214.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 31178971994.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 26621532340.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 118777542647.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 2948082233.0
+          }
+        ]
+      },
+      "2015": {
+        "total": 186782355063.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 35303432419.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 29126785134.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 118586970375.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 3765167135.0
+          }
+        ]
+      },
+      "2014": {
+        "total": 220923236838.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 37284568001.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 45581505242.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 132508363023.99998
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 5548800571.0
+          }
+        ]
+      },
+      "2013": {
+        "total": 232544255606.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 37585440585.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 48854544407.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 140527181996.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 5577088618.0
+          }
+        ]
+      },
+      "2012": {
+        "total": 239952538158.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 33512254506.999996
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 54435973902.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 145553551710.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 6450758039.0
+          }
+        ]
+      },
+      "2011": {
+        "total": 253666309507.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 31499972883.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 66627841553.00001
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 149170041674.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 6368453397.0
+          }
+        ]
+      },
+      "2010": {
+        "total": 200434134826.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 21566427621.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 47795850533.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 126340441354.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 4731415318.0
+          }
+        ]
+      },
+      "2009": {
+        "total": 151791674186.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 19052523823.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 24371261962.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 103978204264.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 4389684137.0
+          }
+        ]
+      },
+      "2008": {
+        "total": 195764624177.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 19269009054.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 33114813617.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 137997005254.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 5383796252.0
+          }
+        ]
+      },
+      "2007": {
+        "total": 159816383833.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 14224210462.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 21562912375.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 120577548613.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 3451712383.0
+          }
+        ]
+      },
+      "2006": {
+        "total": 137581151209.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 10635782378.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 17245105224.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 106676303351.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 3023960256.0
+          }
+        ]
+      },
+      "2005": {
+        "total": 118597835407.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 9471283205.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 12671071358.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 93985190548.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 2470290296.0
+          }
+        ]
+      },
+      "2004": {
+        "total": 95121672369.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 9317399061.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 8223412437.999999
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 75861556523.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 1719304347.0
+          }
+        ]
+      },
+      "2003": {
+        "total": 72776746690.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 7011078659.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 6149822710.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 58149742413.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 1466102908.0
+          }
+        ]
+      },
+      "2002": {
+        "total": 60147158103.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 5287695161.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 5162322739.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 48453689224.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 1243450979.0
+          }
+        ]
+      },
+      "2001": {
+        "total": 58032294243.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 5228696459.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 4085830997.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 47343696480.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 1374070307.0
+          }
+        ]
+      },
+      "2000": {
+        "total": 54993159648.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 4448165570.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 3657338903.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 45658279711.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 1229375464.0
+          }
+        ]
+      },
+      "1999": {
+        "total": 47945909310.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 4488804619.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 3119675228.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 39313745512.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 1023683951.0
+          }
+        ]
+      },
+      "1998": {
+        "total": 51076603549.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 5162772340.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 3631560005.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 41488318164.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 793953040.0
+          }
+        ]
+      },
+      "1997": {
+        "total": 52947495532.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Agropecuária",
+            "value": 5862957635.0
+          },
+          {
+            "id": "C",
+            "label": "Indústria extrativa",
+            "value": 3193795507.0
+          },
+          {
+            "id": "D",
+            "label": "Indústria de transformação",
+            "value": 42833462076.0
+          },
+          {
+            "id": "E",
+            "label": "Outros produtos",
+            "value": 1057280314.0000001
+          }
+        ]
+      }
+    }
+  },
+  "exportTypeComposition": {
+    "id": "EXP_CGCE_ANUAL",
+    "title": "Exportações por tipo de uso",
+    "unit": "US$ correntes FOB",
+    "source": "MDIC · Secex",
+    "url": "https://balanca.mdic.gov.br/balanca/publicacoes_dados_consolidados/pg.html",
+    "api": "https://balanca.mdic.gov.br/balanca/publicacoes_dados_consolidados/tabelas/pg_series_historicas/EXP_CGCE_ANUAL.xlsx",
+    "note": "Grandes categorias econômicas (CGCE), mercadorias FOB. A parcela não classificada é a diferença calculada entre o total anual MDIC e a soma das quatro categorias; aparece como categoria separada para que a pizza cubra todas as exportações. Não se trata da classificação básica/semimanufaturada/manufaturada.",
+    "years": {
+      "2025": {
+        "total": 348278462481.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 20592898535.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 218922583053.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 53546599233.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 55216067300.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 314360.0
+          }
+        ]
+      },
+      "2024": {
+        "total": 337046161710.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 18795745028.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 214962559821.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 46580729209.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 56706297917.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 829735.0
+          }
+        ]
+      },
+      "2023": {
+        "total": 339695766008.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 18236060553.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 224899604258.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 42299453876.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 54235947952.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 24699369.0
+          }
+        ]
+      },
+      "2022": {
+        "total": 334136038220.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 15424402329.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 219344470598.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 43621356379.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 55742884237.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 2924677.0
+          }
+        ]
+      },
+      "2021": {
+        "total": 280814577460.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 12551915773.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 195809883879.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 34633402557.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 37819334377.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 40874.0
+          }
+        ]
+      },
+      "2020": {
+        "total": 209180241655.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 9299208666.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 145768485739.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 29417217706.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 24694757792.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 571752.0
+          }
+        ]
+      },
+      "2019": {
+        "total": 221126807647.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 13202339919.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 146841107359.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 31050673924.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 30028867314.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 3819131.0
+          }
+        ]
+      },
+      "2018": {
+        "total": 231889523399.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 15416868158.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 153864498371.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 31203859418.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 31290835508.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 113461944.0
+          }
+        ]
+      },
+      "2017": {
+        "total": 214988108353.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 15806069481.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 143802908067.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 34316909163.999996
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 20921631911.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 140589730.0
+          }
+        ]
+      },
+      "2016": {
+        "total": 179526129214.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 14353337215.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 121369165912.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 30227550808.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 13275731747.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 300343532.0
+          }
+        ]
+      },
+      "2015": {
+        "total": 186782355063.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 13341823226.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 127510026203.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 29497160816.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 16256304363.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 177040455.0
+          }
+        ]
+      },
+      "2014": {
+        "total": 220923236838.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 14561350928.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 148561205338.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 32750643837.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 24848309090.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 201727645.0
+          }
+        ]
+      },
+      "2013": {
+        "total": 232544255606.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 16176139935.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 158364474259.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 35740469289.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 22083743087.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 179429036.0
+          }
+        ]
+      },
+      "2012": {
+        "total": 239952538158.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 18755074511.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 156681233732.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 33184524623.999996
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 31160403506.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 171301785.0
+          }
+        ]
+      },
+      "2011": {
+        "total": 253666309507.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 17068629554.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 168273438656.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 35560376376.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 32591486667.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 172378254.0
+          }
+        ]
+      },
+      "2010": {
+        "total": 200434134826.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 14214470400.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 128928788570.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 32862922904.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 24291285865.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 136667087.0
+          }
+        ]
+      },
+      "2009": {
+        "total": 151791674186.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 11187752718.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 94729273711.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 28238923855.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 17492110035.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 143613867.0
+          }
+        ]
+      },
+      "2008": {
+        "total": 195764624177.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 18084483679.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 116656778486.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 35465763122.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 25426479890.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 131119000.0
+          }
+        ]
+      },
+      "2007": {
+        "total": 159816383833.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 16068593053.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 94775745086.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 31439045344.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 17401353362.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 131646988.0
+          }
+        ]
+      },
+      "2006": {
+        "total": 137581151209.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 12803251855.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 82270399454.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 28062828539.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 14347171755.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 97499606.0
+          }
+        ]
+      },
+      "2005": {
+        "total": 118597835407.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 12225784046.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 70901993467.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 25623926161.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 9760371696.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 85760037.0
+          }
+        ]
+      },
+      "2004": {
+        "total": 95121672369.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 9823265963.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 59008022360.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 20062546976.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 6155995172.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 71841898.0
+          }
+        ]
+      },
+      "2003": {
+        "total": 72776746690.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 5913077349.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 45679013840.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 16113980494.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 5014193208.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 56481799.0
+          }
+        ]
+      },
+      "2002": {
+        "total": 60147158103.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 5586476614.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 37012734759.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 13499488570.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 3992510317.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 55947843.0
+          }
+        ]
+      },
+      "2001": {
+        "total": 58032294243.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 6633543181.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 35108721672.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 13010628440.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 3202110082.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 77290868.0
+          }
+        ]
+      },
+      "2000": {
+        "total": 54993159648.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 6804848753.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 34648301011.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 11605165298.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 1872970214.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 61874372.0
+          }
+        ]
+      },
+      "1999": {
+        "total": 47945909310.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 4816984255.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 31889459002.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 10018249509.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 1158807855.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 62408689.0
+          }
+        ]
+      },
+      "1998": {
+        "total": 51076603549.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 5020379713.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 34561964276.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 10534696376.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 894645781.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 64917403.0
+          }
+        ]
+      },
+      "1997": {
+        "total": 52947495532.0,
+        "items": [
+          {
+            "id": "B",
+            "label": "Bens de capital",
+            "value": 4616883311.0
+          },
+          {
+            "id": "C",
+            "label": "Bens intermediários",
+            "value": 36944832338.0
+          },
+          {
+            "id": "D",
+            "label": "Bens de consumo",
+            "value": 10269423859.0
+          },
+          {
+            "id": "E",
+            "label": "Combustíveis e lubrificantes",
+            "value": 1029588684.0
+          },
+          {
+            "id": "unclassified",
+            "label": "Não classificados na CGCE",
+            "value": 86767340.0
+          }
+        ]
+      }
+    }
+  },
+  "gdpComposition": {
+    "id": "WDI_VALUE_ADDED",
+    "title": "Composição do valor adicionado",
+    "unit": "% do valor adicionado setorial",
+    "source": "Banco Mundial · contas nacionais",
+    "url": "https://data.worldbank.org/indicator/NV.SRV.TOTL.ZS?locations=BR",
+    "api": [
+      "https://api.worldbank.org/v2/country/BRA/indicator/NV.AGR.TOTL.ZS?format=json&date=1993:2026&per_page=100&footnote=y",
+      "https://api.worldbank.org/v2/country/BRA/indicator/NV.IND.TOTL.ZS?format=json&date=1993:2026&per_page=100&footnote=y",
+      "https://api.worldbank.org/v2/country/BRA/indicator/NV.SRV.TOTL.ZS?format=json&date=1993:2026&per_page=100&footnote=y"
+    ],
+    "years": {
+      "1995": {
+        "total": 100,
+        "coveredShareOfGdp": 86.51454322520974,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.01166646465693
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 23.3814603902749
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 58.1214163702779
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 13.485456774790265,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.792860110942093
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 27.02604616360236
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 67.18109372545554
+          }
+        ]
+      },
+      "1996": {
+        "total": 100,
+        "coveredShareOfGdp": 87.42740556344027,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.76841121077967
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 22.340114560034
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 60.3188797926266
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 12.572594436559726,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.454137841617123
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 25.55275936196375
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 68.99310279641912
+          }
+        ]
+      },
+      "1997": {
+        "total": 100,
+        "coveredShareOfGdp": 87.88490745693899,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.68504702949228
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 22.5941476157036
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 60.6057128117431
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 12.11509254306101,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.330889187984654
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 25.708791497304663
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 68.96031931471069
+          }
+        ]
+      },
+      "1998": {
+        "total": 100,
+        "coveredShareOfGdp": 87.9874282069269,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.7500447835131
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 22.1187903791379
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 61.1185930442759
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 12.012571793073107,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.398549406788035
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 25.138580397098792
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 69.46287019611319
+          }
+        ]
+      },
+      "1999": {
+        "total": 100,
+        "coveredShareOfGdp": 86.5963494161173,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.64598154008681
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 21.746711247782
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 60.2036566282485
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 13.403650583882694,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.36510092101192
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 25.112734421728987
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 69.5221646572591
+          }
+        ]
+      },
+      "2000": {
+        "total": 100,
+        "coveredShareOfGdp": 86.00893985779751,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.75045997570861
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 23.0066186321239
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 58.251861249965
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 13.991060142202485,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.523216520936964
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 26.749101512193718
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 67.72768196686931
+          }
+        ]
+      },
+      "2001": {
+        "total": 100,
+        "coveredShareOfGdp": 85.15426317577031,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.80104301642181
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 22.6395279130452
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 57.7136922463033
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 14.84573682422969,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.638053618656514
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 26.58648794401996
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 67.77545843732354
+          }
+        ]
+      },
+      "2002": {
+        "total": 100,
+        "coveredShareOfGdp": 85.31874818671538,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.47527489339298
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 22.4953278200255
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 57.3481454732969
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 14.681251813284618,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 6.4174346316130215
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 26.36621879495432
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 67.21634657343266
+          }
+        ]
+      },
+      "2003": {
+        "total": 100,
+        "coveredShareOfGdp": 85.6088303411972,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 6.1671843856504
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 23.0838178175003
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 56.3578281380465
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 14.391169658802795,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 7.203911513649766
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 26.96429530166325
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 65.83179318468699
+          }
+        ]
+      },
+      "2004": {
+        "total": 100,
+        "coveredShareOfGdp": 84.89240597395562,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.66531157603221
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 24.306623290035
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 54.9204711078884
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 15.107594026044382,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 6.673519864391977
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 28.632270473629994
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 64.69420966197802
+          }
+        ]
+      },
+      "2005": {
+        "total": 100,
+        "coveredShareOfGdp": 84.89963871153202,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.65116882283132
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 24.1725782826681
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 56.0758916060326
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 15.10036128846798,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.47843182069931
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 28.47194481569061
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 66.04962336361008
+          }
+        ]
+      },
+      "2006": {
+        "total": 100,
+        "coveredShareOfGdp": 85.0521926649638,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.3700437788908
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 23.5440216722512
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 57.1381272138218
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 14.947807335036202,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.138073037229274
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 27.681851501460315
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 67.18007546131041
+          }
+        ]
+      },
+      "2007": {
+        "total": 100,
+        "coveredShareOfGdp": 85.26853206133242,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.41691543634403
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 23.1253804073443
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 57.7262362176441
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 14.731467938667578,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.1800064215565556
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 27.120650312955487
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 67.69934326548797
+          }
+        ]
+      },
+      "2008": {
+        "total": 100,
+        "coveredShareOfGdp": 84.45800670707541,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.56785118025741
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 23.0852937526002
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 56.8048617742178
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 15.541993292924587,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.408428825581958
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 27.33345795463374
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 67.25811321978429
+          }
+        ]
+      },
+      "2009": {
+        "total": 100,
+        "coveredShareOfGdp": 85.50042583667607,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.47677399209847
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 21.8785926263461
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 59.1450592182315
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 14.499574163323928,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.235966895241032
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 25.588869777255667
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 69.1751633275033
+          }
+        ]
+      },
+      "2010": {
+        "total": 100,
+        "coveredShareOfGdp": 84.99665581454936,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.11575648779356
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 23.2679773559416
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 57.6129219708142
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 15.003344185450644,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.84225696687827
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 27.3751680380332
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 67.78257499508854
+          }
+        ]
+      },
+      "2011": {
+        "total": 100,
+        "coveredShareOfGdp": 85.01225441437734,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.34203412783304
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 23.1020509663714
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 57.5681693201729
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 14.987745585622662,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.107539092738978
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 27.174965686434454
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 67.71749522082658
+          }
+        ]
+      },
+      "2012": {
+        "total": 100,
+        "coveredShareOfGdp": 85.03557809818429,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.16832822439069
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 22.1336473653626
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 58.733602508431
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 14.964421901815712,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.901863805262581
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 26.028690414506872
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 69.06944578023054
+          }
+        ]
+      },
+      "2013": {
+        "total": 100,
+        "coveredShareOfGdp": 85.41045412737934,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.50688618256533
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 21.2248099514406
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 59.6787579933734
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 14.589545872620661,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.276738343814277
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 24.8503654128643
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 69.87289624332142
+          }
+        ]
+      },
+      "2014": {
+        "total": 100,
+        "coveredShareOfGdp": 86.04904729455323,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.32561053879483
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 20.4724627471447
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 61.2509740086137
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 13.950952705446767,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.026912760565374
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 23.791620466250734
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 71.18146677318389
+          }
+        ]
+      },
+      "2015": {
+        "total": 100,
+        "coveredShareOfGdp": 85.98706058534037,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.31914942964047
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 19.3600439818506
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 62.3078671738493
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 14.012939414659627,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.023022534133266
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 22.515066627537706
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 72.46191083832902
+          }
+        ]
+      },
+      "2016": {
+        "total": 100,
+        "coveredShareOfGdp": 86.44980769701073,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.89135358790863
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 18.3547582766688
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 63.2036958324333
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 13.550192302989274,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.658027146864045
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 21.2316935868713
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 73.11027926626466
+          }
+        ]
+      },
+      "2017": {
+        "total": 100,
+        "coveredShareOfGdp": 86.12776686728286,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.60059169568986
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 18.188502309123
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 63.33867286247
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 13.872233132717142,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.341589435122665
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 21.118047025589632
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 73.5403635392877
+          }
+        ]
+      },
+      "2018": {
+        "total": 100,
+        "coveredShareOfGdp": 85.8228011098837,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.4203993038464
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 18.7490514528298
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 62.6533503532075
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 14.177198890116301,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.150611779947287
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 21.846235744303367
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 73.00315247574935
+          }
+        ]
+      },
+      "2019": {
+        "total": 100,
+        "coveredShareOfGdp": 86.02749091781074,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.20501409463474
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 18.754627572495
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 63.067849250681
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 13.972509082189262,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 4.8879887693715744
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 21.800737615854523
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 73.31127361477391
+          }
+        ]
+      },
+      "2020": {
+        "total": 100,
+        "coveredShareOfGdp": 86.66604814525667,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.71148511499007
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 19.5061183894885
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 61.4484446407781
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 13.333951854743333,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 6.590222165682843
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 22.507220309382586
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 70.90255752493458
+          }
+        ]
+      },
+      "2021": {
+        "total": 100,
+        "coveredShareOfGdp": 85.5956219964041,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 6.5587626121061
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 22.1234751955181
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 56.9133841887799
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 14.404378003595895,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 7.662497752959416
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 25.846503220044966
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 66.49099902699562
+          }
+        ]
+      },
+      "2022": {
+        "total": 100,
+        "coveredShareOfGdp": 86.67416283429237,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.76747490819457
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 22.819456851691
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 58.0872310744068
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 13.325837165707625,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 6.654203189964572
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 26.327865312432593
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 67.01793149760283
+          }
+        ]
+      },
+      "2023": {
+        "total": 100,
+        "coveredShareOfGdp": 87.34617001544436,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 6.02306023526246
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 22.1441739234284
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 59.1789358567535
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 12.653829984555642,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 6.895620305043113
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 25.35219794927805
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 67.75218174567884
+          }
+        ]
+      },
+      "2024": {
+        "total": 100,
+        "coveredShareOfGdp": 85.86372265820484,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 5.75227640931944
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 20.9406935314976
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 59.1707527173878
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 14.136277341795164,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 6.699309360505315
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 24.38828981927047
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 68.91240082022422
+          }
+        ]
+      },
+      "2025": {
+        "total": 100,
+        "coveredShareOfGdp": 85.97499989284091,
+        "rawSharesOfGdp": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 6.08621695565171
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 20.1499461312909
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 59.7388368058983
+          }
+        ],
+        "outsideSectorValueAddedPctGdp": 14.025000107159087,
+        "items": [
+          {
+            "id": "NV.AGR.TOTL.ZS",
+            "label": "Agropecuária",
+            "value": 7.079054333512719
+          },
+          {
+            "id": "NV.IND.TOTL.ZS",
+            "label": "Indústria e construção",
+            "value": 23.43698302577
+          },
+          {
+            "id": "NV.SRV.TOTL.ZS",
+            "label": "Serviços",
+            "value": 69.48396264071728
+          }
+        ]
+      }
+    },
+    "excludedYears": [
+      {
+        "year": "1993",
+        "rawSumPctGdp": 117.41510968251932,
+        "reason": "A soma setorial em % do PIB excede 100% nesta edição WDI; composição indisponível, sem corrigir observações."
+      },
+      {
+        "year": "1994",
+        "rawSumPctGdp": 101.03725156557823,
+        "reason": "A soma setorial em % do PIB excede 100% nesta edição WDI; composição indisponível, sem corrigir observações."
+      }
+    ],
+    "note": "A pizza compara os três grandes setores no valor adicionado: cada parcela original em % do PIB é dividida pela soma das três e multiplicada por 100. Os valores originais em % do PIB estão preservados em rawSharesOfGdp. A diferença calculada entre 100% do PIB e essa soma é mostrada separadamente; refere-se ao que está fora do valor adicionado setorial (impostos líquidos sobre produtos e possíveis diferenças de cálculo), e não é uma série fiscal observada. Setores de maior tamanho não são necessariamente os de maior contribuição para o crescimento anual."
+  },
+  "fdiStockComposition": {
+    "id": "BCB_IDP_STOCK_2024",
+    "title": "Onde está o capital estrangeiro",
+    "year": 2024,
+    "total": 884800000000,
+    "totalUnit": "US$ correntes",
+    "unit": "% do estoque de participação no capital",
+    "items": [
+      {
+        "label": "Serviços financeiros",
+        "value": 21.7
+      },
+      {
+        "label": "Petróleo e gás",
+        "value": 7.9
+      },
+      {
+        "label": "Comércio",
+        "value": 7.4
+      },
+      {
+        "label": "Eletricidade",
+        "value": 5.3
+      },
+      {
+        "label": "Químicos",
+        "value": 4.4
+      },
+      {
+        "label": "Veículos",
+        "value": 4.1
+      },
+      {
+        "label": "Serviços de TI",
+        "value": 3.8
+      },
+      {
+        "label": "Bebidas",
+        "value": 3.6
+      },
+      {
+        "label": "Alimentos",
+        "value": 3.2
+      },
+      {
+        "label": "Demais setores",
+        "value": 38.6
+      }
+    ],
+    "source": "Banco Central · Relatório de Investimento Direto 2025, figura 22, p. 23",
+    "url": "https://www.bcb.gov.br/content/publicacoes/relatorioidp/RelatoriaID2024/RID_2025.pdf",
+    "api": "https://www.bcb.gov.br/content/publicacoes/relatorioidp/RelatoriaID2024/RID_2025.pdf",
+    "publishedAt": "2025-11-25",
+    "note": "Estoque ao fim de 2024 de investimento direto no país (IDP), apenas participação no capital: US$ 884,8 bilhões. Exclui US$ 256,4 bilhões de operações intercompanhia. Não é o fluxo anual de novos aportes; variações do estoque incluem câmbio, preços e reclassificações. Percentuais setoriais arredondados publicados pelo BCB, transcritos da figura 22. Este recorte não oferece comparação histórica por mandato."
+  },
+  "limitations": [
+    "Reservas internacionais são ativos das autoridades monetárias; não são saldo de dólares no Tesouro.",
+    "Investimento estrangeiro direto (fluxo), estoque de capital estrangeiro e formação bruta de capital fixo são conceitos distintos.",
+    "As séries novas não revisam observações anteriores: sua incorporação ao snapshot cabe ao processo de integração.",
+    "Nenhum valor parcial de 2026 foi incorporado às séries anuais."
+  ]
+}

@@ -1,0 +1,573 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "total": 33,
+    "sourceid": "2",
+    "lastupdated": "2026-10-08"
+  },
+  [
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2025",
+      "value": 20.1499461312909,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2024",
+      "value": 20.9406935314976,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2023",
+      "value": 22.1441739234284,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2022",
+      "value": 22.819456851691,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2021",
+      "value": 22.1234751955181,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2020",
+      "value": 19.5061183894885,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2019",
+      "value": 18.754627572495,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2018",
+      "value": 18.7490514528298,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2017",
+      "value": 18.188502309123,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2016",
+      "value": 18.3547582766688,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2015",
+      "value": 19.3600439818506,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2014",
+      "value": 20.4724627471447,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2013",
+      "value": 21.2248099514406,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2012",
+      "value": 22.1336473653626,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2011",
+      "value": 23.1020509663714,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2010",
+      "value": 23.2679773559416,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2009",
+      "value": 21.8785926263461,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2008",
+      "value": 23.0852937526002,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2007",
+      "value": 23.1253804073443,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2006",
+      "value": 23.5440216722512,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2005",
+      "value": 24.1725782826681,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2004",
+      "value": 24.306623290035,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2003",
+      "value": 23.0838178175003,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2002",
+      "value": 22.4953278200255,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2001",
+      "value": 22.6395279130452,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "2000",
+      "value": 23.0066186321239,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1999",
+      "value": 21.746711247782,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1998",
+      "value": 22.1187903791379,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1997",
+      "value": 22.5941476157036,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1996",
+      "value": 22.340114560034,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1995",
+      "value": 23.3814603902749,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1994",
+      "value": 35.4209197179743,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    },
+    {
+      "indicator": {
+        "id": "NV.IND.TOTL.ZS",
+        "value": "Industry (including construction), value added (% of GDP)"
+      },
+      "country": {
+        "id": "BR",
+        "value": "Brazil"
+      },
+      "countryiso3code": "BRA",
+      "date": "1993",
+      "value": 37.2991204114669,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1,
+      "footnote": ""
+    }
+  ]
+]

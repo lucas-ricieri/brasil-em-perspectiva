@@ -1,0 +1,52 @@
+{
+  "figure": 22,
+  "printedPage": 23,
+  "pdfPage": 24,
+  "year": 2024,
+  "total": 884800000000,
+  "totalUnit": "US$ correntes",
+  "unit": "% do estoque de participação no capital",
+  "items": [
+    {
+      "label": "Serviços financeiros",
+      "value": 21.7
+    },
+    {
+      "label": "Petróleo e gás",
+      "value": 7.9
+    },
+    {
+      "label": "Comércio",
+      "value": 7.4
+    },
+    {
+      "label": "Eletricidade",
+      "value": 5.3
+    },
+    {
+      "label": "Químicos",
+      "value": 4.4
+    },
+    {
+      "label": "Veículos",
+      "value": 4.1
+    },
+    {
+      "label": "Serviços de TI",
+      "value": 3.8
+    },
+    {
+      "label": "Bebidas",
+      "value": 3.6
+    },
+    {
+      "label": "Alimentos",
+      "value": 3.2
+    },
+    {
+      "label": "Demais setores",
+      "value": 38.6
+    }
+  ],
+  "transcription": "Conferida visualmente na figura 22; percentuais arredondados a uma casa decimal."
+}

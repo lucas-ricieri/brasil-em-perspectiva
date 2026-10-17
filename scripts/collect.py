@@ -99,13 +99,14 @@ def main():
         for f in concurrent.futures.as_completed(futures):
             try: series.append(f.result())
             except Exception as e: errors.append({'id':str(futures[f]),'error':str(e)});print('ERROR',futures[f],e,flush=True)
+    for s in series: s['collectedAt']=ASOF
     order=[x[0] for x in SPECS]+['BCB_'+str(x[0]) for x in jobs]
     series.sort(key=lambda s:order.index(s['id']))
     payload={'asOf':ASOF,'annualCutoff':2025,'series':series,'errors':errors}
     (ROOT/'data'/'snapshot.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
     (ROOT/'dist'/'data.js').write_text('window.DATA = '+json.dumps(payload,ensure_ascii=False)+';',encoding='utf-8')
     with (ROOT/'dist'/'dados.csv').open('w',encoding='utf-8-sig',newline='') as f:
-        w=csv.writer(f);w.writerow(['serie','indicador','ano','valor','unidade','fonte','url','coleta'])
+        w=csv.writer(f,lineterminator="\n");w.writerow(['serie','indicador','ano','valor','unidade','fonte','url','coleta'])
         for s in series:
             for y,v in sorted(s['values'].items()): w.writerow([s['id'],s['name'],y,v,s['unit'],s['source'],s['url'],ASOF])
     print('DONE',len(series),'series',len(errors),'errors',flush=True)

@@ -3,7 +3,12 @@ root=pathlib.Path(__file__).resolve().parents[1]
 html=(root/'template.html').read_text(encoding='utf-8')
 for marker,file in [('/*STYLES*/','style.css'),('/*DATA*/','dist/data.js'),('/*MODEL*/','model.js'),('/*APP*/','app.js')]:
     text=(root/file).read_text(encoding='utf-8')
-    if marker=='/*APP*/': text=(root/'inventory.js').read_text(encoding='utf-8')+'\n'+text
+    if marker=='/*STYLES*/': text+='\n'+(root/'theme.css').read_text(encoding='utf-8')
+    if marker=='/*MODEL*/': text+='\n'+(root/'country-model.js').read_text(encoding='utf-8')
+    if marker=='/*DATA*/':
+        for name,file in [('INVESTMENT_DETAIL','data/investment-detail.json'),('COMPANY_CASES','data/company-cases.json')]:
+            text+='\nwindow.'+name+' = '+json.dumps(json.loads((root/file).read_text(encoding='utf-8')),ensure_ascii=False).replace('</','<\\/')+';'
+    if marker=='/*APP*/': text='\n'.join((root/f).read_text(encoding='utf-8') for f in ['inventory.js','context.js','policy-expansion.js','event-catalog.js','timeline.js','context-ui.js','country-ui.js','investment-ui.js'])+'\n'+text
     html=html.replace(marker,text)
 (root/'dist'/'index.html').write_text(html,encoding='utf-8')
 manifest=root/'.openai'/'hosting.json'
